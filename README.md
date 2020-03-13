@@ -1,12 +1,11 @@
 # Data Structures and Algorithms
 Data Structures and Algorithms implementation in Python.
 
-## What is a Data Structure? 
-<div class="alert alert-info">
-    A <b>data structure</b> is a way of organizing data so that it can be used effectively.
-</div>
+### What is a Data Structure? 
+ A **data structure* is a way of organizing data so that it can be used effectively.
 
-### Topics covered:
+
+## Topics covered:
 - [x] [Abstract Data Types (ADT)](Notebooks\Abstract_Data_Types.ipynb)
 - [x] [Algorithm Analysis and Big O](Notebooks\Algorithm_Analysis_and_Big-O.ipynb)
     - [x] [Big-O Examples](Notebooks\Abstract_Data_Types.ipynb)
@@ -34,3 +33,4 @@ This is mostly for my personal learning and future references, but anyone can us
 
 # To do
 - [x] Finish DoublyLikedList
+- [x] Tree
