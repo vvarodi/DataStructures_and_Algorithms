@@ -9,8 +9,8 @@ Data Structures and Algorithms implementation in Python.
 - [x] [Abstract Data Types (ADT)](Notebooks/Abstract_Data_Types.ipynb)
 - [x] [Algorithm Analysis and Big O](Notebooks/Algorithm_Analysis_and_Big-O.ipynb)
     - [x] [Big-O Examples](Notebooks/Big-O_Examples.ipynb)
-    - [ ] Recursion
-- [x] [Data Structures]
+    - [ ] [Recursion](Notebooks/Recursion.ipynb)
+- [x] Data Structures
     - [ ] Linear ADTs
       - [x] [Stack](Notebooks\Stacks.ipynb)
       - [x] [Queue](Notebooks\Queue.ipynb)
