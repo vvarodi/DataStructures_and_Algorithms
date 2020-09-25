@@ -2,7 +2,7 @@
 Data Structures and Algorithms implementation in Python.
 
 ### What is a Data Structure? 
- A **data structure* is a way of organizing data so that it can be used effectively.
+ A **data structure** is a way of organizing data so that it can be used effectively.
 
 
 ## Topics covered:
